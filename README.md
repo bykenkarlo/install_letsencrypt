@@ -1,7 +1,7 @@
 # How to Install Let's Encrypt in Namecheap Cpanel
 Install Let's Encrypt SSL in namecheap Cpanel
 
-** Make sure to uninstall the existing SSL certificate
+** Make sure to uninstall the existing SSL certificate and enable Sl terminal in cpanel
 
 Command:
 * curl https://get.acme.sh | sh
